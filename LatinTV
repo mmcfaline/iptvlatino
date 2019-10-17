@@ -31,33 +31,33 @@ http://wowza2.mysoltv.com:1992/Latino_SONY/index.m3u8
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/The_film_zone.jpg" tvg-name="The Film Zone"  group-title="New Group",The Film Zone
 http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/440.flv
 #EXTINF:-1, Fox life
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/271.flv
+http://23.237.22.2:8000/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/271.flv
 #EXTINF:-1,Fox Action
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/416.flv
+http://23.237.22.2:8000/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/416.flv
 #EXTINF:-1,Fox Movies
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/417.flv
+http://23.237.22.2:8000/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/417.flv
 #EXTINF:-1, tbs
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/273.flv
+http://23.237.22.2:8000/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/273.flv
 #EXTINF:-1, tnt Series
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/266.flv
+http://23.237.22.2:8000/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/266.flv
 #EXTINF:-1, AXN
-http://23.237.22.2:8080/lstream4/404/10/5bac2479610bead6bf7939891285f5fd/213.flv
+http://23.237.22.2:8000/lstream4/404/10/5bac2479610bead6bf7939891285f5fd/213.flv
 #EXTINF:-1, SONY
 http://wowza2.mysoltv.com:1992/Latino_SONY/index.m3u8
 #EXTINF:-1,CINEMAX
 http://wowza2.mysoltv.com:1992/Latino_CINEMAX/index.m3u8
 #EXTINF:-1, Film Zone
-http://23.237.22.2:8080/lstream4/431/16/5bac2479610bead6bf7939891285f5fd/440.flv
+http://23.237.22.2:8000/lstream4/431/16/5bac2479610bead6bf7939891285f5fd/440.flv
 #EXTINF:-1, AMC
-http://23.237.22.2:8080/lstream4/526/10/5bac2479610bead6bf7939891285f5fd/444.flv
+http://23.237.22.2:8000/lstream4/526/10/5bac2479610bead6bf7939891285f5fd/444.flv
 #EXTINF:-1,Golden
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/436.flv
+http://23.237.22.2:8000/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/436.flv
 #EXTINF:-1,Space
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/445.flv
+http://23.237.22.2:8000/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/445.flv
 #EXTINF:-1,Studio Universal
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/492.flv
+http://23.237.22.2:8000/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/492.flv
 #EXTINF:-1,TNT
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/435.flv
+http://23.237.22.2:8000/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/435.flv
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" tvg-name="Distrito Comedia"  group-title="New Group",Distrito Comedia
 http://23.237.22.2:8080/lstream5/400/10/787f871133435e47a2e14ab464387153/205.flv
 
@@ -69,29 +69,29 @@ hls://http://wowza2.mysoltv.com:1992/Latino_Fox_Sports/tracks-v1a1/index.m3u8
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://logodatabases.com/wp-content/uploads/2012/05/espn-logo.jpg" tvg-name="ESPN"  group-title="New Group",ESPN
 http://wowza2.mysoltv.com:1992/Latino_ESPN/index.m3u8
 EXTINF:-1,PREMIERE 3 HD
-http://iptv.servidorfull.com:8081/live/hB5z9lEfUS/oY8hn0SJJF/309.ts
+http://iptv.servidorfull.com:8001/live/hB5z9lEfUS/oY8hn0SJJF/309.ts
 #EXTINF:-1,PREMIERE 2 HD
-http://iptv.servidorfull.com:8081/live/hB5z9lEfUS/oY8hn0SJJF/308.ts
+http://iptv.servidorfull.com:8001/live/hB5z9lEfUS/oY8hn0SJJF/308.ts
 #EXTINF:-1,PREMIERE CLUBES HD
-http://iptv.servidorfull.com:8081/live/hB5z9lEfUS/oY8hn0SJJF/312.ts
+http://iptv.servidorfull.com:8001/live/hB5z9lEfUS/oY8hn0SJJF/312.ts
 #EXTINF:-1,FOX SPORTS 2 BRASIL HD
-http://iptv.servidorfull.com:8081/live/hB5z9lEfUS/oY8hn0SJJF/518.ts
+http://iptv.servidorfull.com:8001/live/hB5z9lEfUS/oY8hn0SJJF/518.ts
 #EXTINF:-1,FOX SPORTS BRASIL HD
-http://iptv.servidorfull.com:8081/live/hB5z9lEfUS/oY8hn0SJJF/304.ts
+http://iptv.servidorfull.com:8001/live/hB5z9lEfUS/oY8hn0SJJF/304.ts
 #EXTINF:-1,ESPORTE INTERATIVO HD
-http://iptv.servidorfull.com:8081/live/hB5z9lEfUS/oY8hn0SJJF/42.ts
+http://iptv.servidorfull.com:8001/live/hB5z9lEfUS/oY8hn0SJJF/42.ts
 #EXTINF:-1,ESPN 2 BRASIL HD
-http://iptv.servidorfull.com:8081/live/hB5z9lEfUS/oY8hn0SJJF/301.ts
+http://iptv.servidorfull.com:8001/live/hB5z9lEfUS/oY8hn0SJJF/301.ts
 #EXTINF:-1,ESPN + HD BRASIL
-http://iptv.servidorfull.com:8081/live/hB5z9lEfUS/oY8hn0SJJF/713.ts
+http://iptv.servidorfull.com:8001/live/hB5z9lEfUS/oY8hn0SJJF/713.ts
 #EXTINF:-1,ESPN HD BRASIL
-http://iptv.servidorfull.com:8081/live/hB5z9lEfUS/oY8hn0SJJF/538.ts
+http://iptv.servidorfull.com:8001/live/hB5z9lEfUS/oY8hn0SJJF/538.ts
 #EXTINF:-1, Eurosport 1
 http://195.189.249.6:8000/play/a00d/index.m3u8
 #EXTINF:-1, Eurosport 2
 http://195.189.249.6:8000/play/a00e/index.m3u8
 #EXTINF:-1,Fox Sports Mexico
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/522.flv
+http://23.237.22.2:8000/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/522.flv
 #EXTINF:-1, UNIVISION TDN
 http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/master.m3u8
 #EXTINF:-1,Gol TV
